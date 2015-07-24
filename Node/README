@@ -1,0 +1,13 @@
+O experimento foi realizado entre os dias 23/05/13 até 27/05/13 com um total de 8 sensores coletando dados de temperatura das salas do CPMAT, como mostra a figura planta-laccan.
+
+*O sensor de ID 23 foi colocado em funcionamento apenas no dia 24/05/13. 
+
+Os dados de temperaturas eram coletados a cada 1 min e enviados após um total de 30 amostras coletadas. Neste experimento foi utilizado um roteamento em árvore que já existe implementado no TinyOS.
+
+Data measurements at:
+	celcius degress for temperature
+	mbar for pressure
+	mili volts for voltage
+	g for moviment detection (g ~ 9,8 m/s^2)
+	
+
